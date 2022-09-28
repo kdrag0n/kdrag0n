@@ -23,6 +23,4 @@ Or use one of my **commercial projects**: [Hueflake](https://hueflake.dev/?utm_s
 
 ...and [more](https://github.com/kdrag0n?tab=repositories&q=&type=source&language=&sort=).
 
-#### Find me on
-
-[🐦 Twitter](https://twitter.com/kdrag0n)　　[💬 Telegram](https://t.me/kdrag0n)　　[📧 Email](mailto:github.profile@kdrag0n.dev)
+**Find me on:**　　[🐦 Twitter](https://twitter.com/kdrag0n)　　[💬 Telegram](https://t.me/kdrag0n)　　[📧 Email](mailto:github.profile@kdrag0n.dev)
