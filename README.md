@@ -6,14 +6,9 @@
 
 #### Want to support my work?
 
-- [Liberapay](https://liberapay.com/kdrag0n/)
-- [Patreon](https://patreon.com/kdrag0n)
-- [PayPal](https://paypal.me/kdrag0ndonate)
+[Liberapay](https://liberapay.com/kdrag0n/), [Patreon](https://patreon.com/kdrag0n), [PayPal](https://paypal.me/kdrag0ndonate)
 
-Or just use one of my **commercial projects**:
-
-- [Hueflake](https://hueflake.dev/?utm_source=github-profile)
-- [Repainter](https://repainter.app/?utm_source=github-profile)
+Or just use one of my **commercial projects**: [Hueflake](https://hueflake.dev/?utm_source=github-profile) or [Repainter](https://repainter.app/?utm_source=github-profile)
 
 #### More stuff I’ve done
 
@@ -30,6 +25,4 @@ Or just use one of my **commercial projects**:
 
 #### Find me on
 
-- [🐦 Twitter](https://twitter.com/kdrag0n)
-- [💬 Telegram](https://t.me/kdrag0n)
-- [📧 Email](mailto:github.profile@kdrag0n.dev)
+[🐦 Twitter](https://twitter.com/kdrag0n), [💬 Telegram](https://t.me/kdrag0n), [📧 Email](mailto:github.profile@kdrag0n.dev)
