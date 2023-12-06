@@ -1,4 +1,4 @@
-👋 Hey! I’m Danny, a student and hobbyist developer.
+👋 Hey! I’m Danny, a student and developer.
 
 🚀 **Focus:** building [**OrbStack**](https://orbstack.dev), a fast, light, and simple way to run Docker container and Linux machines on macOS
 
@@ -7,6 +7,8 @@
 #### Want to support my work?
 
 [Liberapay](https://liberapay.com/kdrag0n/)　　[Patreon](https://patreon.com/kdrag0n)　　[PayPal](https://paypal.me/kdrag0ndonate)
+
+Or try [**OrbStack**](https://orbstack.dev).
 
 #### More stuff I’ve done
 
