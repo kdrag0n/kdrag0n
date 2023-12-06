@@ -8,8 +8,6 @@
 
 [Liberapay](https://liberapay.com/kdrag0n/)　　[Patreon](https://patreon.com/kdrag0n)　　[PayPal](https://paypal.me/kdrag0ndonate)
 
-Or use one of my **commercial projects**: [Hueflake](https://hueflake.dev/?utm_source=github-profile) or [Repainter](https://repainter.app/?utm_source=github-profile)
-
 #### More stuff I’ve done
 
 - 🌐 Web: [Repainter](https://repainter.app/?utm_source=github-profile), [**Hueflake**](https://hueflake.dev/?utm_source=github-profile), [Android web installer](https://github.com/kdrag0n/android-webinstall), [fastboot.js](https://github.com/kdrag0n/fastboot.js), [Earlypilot](https://github.com/kdrag0n/earlypilot), [ProtonAOSP](https://protonaosp.org/?utm_source=github-profile)
