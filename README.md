@@ -6,9 +6,9 @@
 
 #### Want to support my work?
 
-[Liberapay](https://liberapay.com/kdrag0n/)　　[Patreon](https://patreon.com/kdrag0n)　　[PayPal](https://paypal.me/kdrag0ndonate)
+Try [**OrbStack**](https://orbstack.dev).
 
-Or try [**OrbStack**](https://orbstack.dev).
+Or for open-source projects: [Liberapay](https://liberapay.com/kdrag0n/)　　[Patreon](https://patreon.com/kdrag0n)　　[PayPal](https://paypal.me/kdrag0ndonate)
 
 #### More stuff I’ve done
 
